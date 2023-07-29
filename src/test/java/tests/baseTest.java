@@ -10,7 +10,6 @@ import pages.LoginPage;
 public class baseTest {
 
     private WebDriver driver;
-
     public LoginPage loginPage;
 
 
