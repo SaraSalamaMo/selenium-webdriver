@@ -8,3 +8,5 @@
 
 ### using https://www.saucedemo.com website 
 
+#### Use TestNG reporter to display the test cases results
+
